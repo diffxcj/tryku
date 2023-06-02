@@ -1,5 +1,5 @@
 public class Hello{
 	public static void main(String args[]){
-		System.out.println("Hello Word888!");
+		System.out.println("Hello Word测试01!");
  	}
 }
